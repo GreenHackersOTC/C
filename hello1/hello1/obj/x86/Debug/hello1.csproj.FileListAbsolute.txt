@@ -1,0 +1,7 @@
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\hello1\hello1\bin\Debug\hello1.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\hello1\hello1\bin\Debug\hello1.pdb
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\hello1\hello1\obj\x86\Debug\hello1.frmHello1.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\hello1\hello1\obj\x86\Debug\hello1.Properties.Resources.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\hello1\hello1\obj\x86\Debug\hello1.csproj.GenerateResource.Cache
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\hello1\hello1\obj\x86\Debug\hello1.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\hello1\hello1\obj\x86\Debug\hello1.pdb

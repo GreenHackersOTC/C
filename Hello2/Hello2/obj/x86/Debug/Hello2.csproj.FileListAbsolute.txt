@@ -1,0 +1,11 @@
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Hello2\Hello2\bin\Debug\Hello2.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Hello2\Hello2\bin\Debug\Hello2.pdb
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Hello2\Hello2\obj\x86\Debug\Hello2.frmHello2.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Hello2\Hello2\obj\x86\Debug\Hello2.Properties.Resources.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Hello2\Hello2\obj\x86\Debug\Hello2.csproj.GenerateResource.Cache
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Hello2\Hello2\obj\x86\Debug\Hello2.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Hello2\Hello2\obj\x86\Debug\Hello2.pdb
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Hello2\Hello2\obj\x86\Debug\hello2.frmHello1.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Hello2\Hello2\obj\x86\Debug\Hello2.Form1.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Hello2\Hello2\bin\Debug\Newtonsoft.Json.dll
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Hello2\Hello2\obj\x86\Debug\Hello2.csprojResolveAssemblyReference.cache

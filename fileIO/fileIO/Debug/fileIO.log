@@ -1,0 +1,33 @@
+﻿Build started 10/28/2017 4:44:05 PM.
+     1>Project "F:\Drive F - Online Training\!Online Video Training\C++\Projects\fileIO\fileIO\fileIO.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\fileIO.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt fileio.cpp
+         fileio.cpp
+     1>f:\drive f - online training\!online video training\c++\projects\fileio\fileio\fileio.cpp(11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>f:\drive f - online training\!online video training\c++\projects\fileio\fileio\fileio.cpp(15): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>f:\drive f - online training\!online video training\c++\projects\fileio\fileio\fileio.cpp(17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>f:\drive f - online training\!online video training\c++\projects\fileio\fileio\fileio.cpp(19): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>f:\drive f - online training\!online video training\c++\projects\fileio\fileio\fileio.cpp(8): warning C4101: 'i' : unreferenced local variable
+     1>f:\drive f - online training\!online video training\c++\projects\fileio\fileio\fileio.cpp(9): warning C4101: 'f' : unreferenced local variable
+     1>f:\drive f - online training\!online video training\c++\projects\fileio\fileio\fileio.cpp(10): warning C4101: 'c' : unreferenced local variable
+     1>f:\drive f - online training\!online video training\c++\projects\fileio\fileio\fileio.cpp(6): warning C4101: 'fpInput' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\fileIO\Debug\fileIO.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\fileIO.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\fileIO\Debug\fileIO.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\fileIO\Debug\fileIO.lib" /MACHINE:X86 Debug\fileio.obj
+         LINK : F:\Drive F - Online Training\!Online Video Training\C++\Projects\fileIO\Debug\fileIO.exe not found or not built by the last incremental link; performing full link
+         fileIO.vcxproj -> F:\Drive F - Online Training\!Online Video Training\C++\Projects\fileIO\Debug\fileIO.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\fileIO\Debug\fileIO.exe;#1" /manifest Debug\fileIO.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\fileIO.unsuccessfulbuild".
+         Touching "Debug\fileIO.lastbuildstate".
+     1>Done Building Project "F:\Drive F - Online Training\!Online Video Training\C++\Projects\fileIO\fileIO\fileIO.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.21

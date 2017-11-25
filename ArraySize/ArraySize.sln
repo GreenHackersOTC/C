@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArraySize", "ArraySize\ArraySize.vcxproj", "{026864D2-85A3-4C15-A022-D4FFD96FDDBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{026864D2-85A3-4C15-A022-D4FFD96FDDBD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{026864D2-85A3-4C15-A022-D4FFD96FDDBD}.Debug|Win32.Build.0 = Debug|Win32
+		{026864D2-85A3-4C15-A022-D4FFD96FDDBD}.Release|Win32.ActiveCfg = Release|Win32
+		{026864D2-85A3-4C15-A022-D4FFD96FDDBD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

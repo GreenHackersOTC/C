@@ -1,0 +1,7 @@
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\PhotoViewer\PhotoViewer\bin\Debug\PhotoViewer.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\PhotoViewer\PhotoViewer\bin\Debug\PhotoViewer.pdb
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\PhotoViewer\PhotoViewer\obj\x86\Debug\PhotoViewer.Properties.Resources.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\PhotoViewer\PhotoViewer\obj\x86\Debug\PhotoViewer.csproj.GenerateResource.Cache
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\PhotoViewer\PhotoViewer\obj\x86\Debug\PhotoViewer.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\PhotoViewer\PhotoViewer\obj\x86\Debug\PhotoViewer.pdb
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\PhotoViewer\PhotoViewer\obj\x86\Debug\PhotoViewer.frmMain.resources

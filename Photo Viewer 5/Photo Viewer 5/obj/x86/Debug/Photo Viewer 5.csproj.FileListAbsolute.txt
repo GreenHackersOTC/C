@@ -1,0 +1,7 @@
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Photo Viewer 5\Photo Viewer 5\obj\x86\Debug\Photo_Viewer_5.Frm.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Photo Viewer 5\Photo Viewer 5\obj\x86\Debug\Photo_Viewer_5.Properties.Resources.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Photo Viewer 5\Photo Viewer 5\obj\x86\Debug\Photo Viewer 5.csproj.GenerateResource.Cache
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Photo Viewer 5\Photo Viewer 5\bin\Debug\Photo Viewer 5.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Photo Viewer 5\Photo Viewer 5\bin\Debug\Photo Viewer 5.pdb
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Photo Viewer 5\Photo Viewer 5\obj\x86\Debug\Photo Viewer 5.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Photo Viewer 5\Photo Viewer 5\obj\x86\Debug\Photo Viewer 5.pdb

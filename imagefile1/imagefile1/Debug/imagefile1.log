@@ -1,0 +1,27 @@
+﻿Build started 11/19/2017 2:47:39 PM.
+     1>Project "F:\Drive F - Online Training\!Online Video Training\C++\Projects\imagefile1\imagefile1\imagefile1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\imagefile1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt imagefile1.cpp
+         imagefile1.cpp
+     1>f:\drive f - online training\!online video training\c++\projects\imagefile1\imagefile1\imagefile1.cpp(13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>f:\drive f - online training\!online video training\c++\projects\imagefile1\imagefile1\imagefile1.cpp(16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>f:\drive f - online training\!online video training\c++\projects\imagefile1\imagefile1\imagefile1.cpp(17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\imagefile1\Debug\imagefile1.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\imagefile1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\imagefile1\Debug\imagefile1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\imagefile1\Debug\imagefile1.lib" /MACHINE:X86 Debug\imagefile1.obj
+         LINK : F:\Drive F - Online Training\!Online Video Training\C++\Projects\imagefile1\Debug\imagefile1.exe not found or not built by the last incremental link; performing full link
+         imagefile1.vcxproj -> F:\Drive F - Online Training\!Online Video Training\C++\Projects\imagefile1\Debug\imagefile1.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\imagefile1\Debug\imagefile1.exe;#1" /manifest Debug\imagefile1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\imagefile1.unsuccessfulbuild".
+         Touching "Debug\imagefile1.lastbuildstate".
+     1>Done Building Project "F:\Drive F - Online Training\!Online Video Training\C++\Projects\imagefile1\imagefile1\imagefile1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.22

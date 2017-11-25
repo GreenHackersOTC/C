@@ -1,0 +1,28 @@
+﻿Build started 11/12/2017 11:16:28 AM.
+     1>Project "F:\Drive F - Online Training\!Online Video Training\C++\Projects\oop2\oop2\oop2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\oop2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt oop2main.cpp
+         oop2main.cpp
+     1>f:\drive f - online training\!online video training\c++\projects\oop2\oop2\oop2main.cpp(24): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>f:\drive f - online training\!online video training\c++\projects\oop2\oop2\oop2main.cpp(59): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\drive f - online training\!online video training\c++\projects\oop2\oop2\oop2main.cpp(62): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\drive f - online training\!online video training\c++\projects\oop2\oop2\oop2main.cpp(65): warning C4305: '=' : truncation from 'double' to 'float'
+     1>f:\drive f - online training\!online video training\c++\projects\oop2\oop2\oop2main.cpp(66): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\drive f - online training\!online video training\c++\projects\oop2\oop2\oop2main.cpp(72): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\oop2\Debug\oop2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\oop2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\oop2\Debug\oop2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\oop2\Debug\oop2.lib" /MACHINE:X86 Debug\oop2main.obj
+         LINK : F:\Drive F - Online Training\!Online Video Training\C++\Projects\oop2\Debug\oop2.exe not found or not built by the last incremental link; performing full link
+         oop2.vcxproj -> F:\Drive F - Online Training\!Online Video Training\C++\Projects\oop2\Debug\oop2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\oop2\Debug\oop2.exe;#1" /manifest Debug\oop2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\oop2.unsuccessfulbuild".
+         Touching "Debug\oop2.lastbuildstate".
+     1>Done Building Project "F:\Drive F - Online Training\!Online Video Training\C++\Projects\oop2\oop2\oop2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.46

@@ -1,0 +1,3 @@
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Photo Viewer2\Photo Viewer2\obj\x86\Debug\Photo_Viewer2.frmPhotoviewer.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Photo Viewer2\Photo Viewer2\obj\x86\Debug\Photo_Viewer2.Properties.Resources.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Photo Viewer2\Photo Viewer2\obj\x86\Debug\Photo Viewer2.csproj.GenerateResource.Cache

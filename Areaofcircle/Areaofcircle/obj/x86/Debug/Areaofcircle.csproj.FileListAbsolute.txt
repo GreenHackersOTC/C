@@ -1,0 +1,7 @@
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Areaofcircle\Areaofcircle\obj\x86\Debug\Areaofcircle.frmMain.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Areaofcircle\Areaofcircle\obj\x86\Debug\Areaofcircle.Properties.Resources.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Areaofcircle\Areaofcircle\obj\x86\Debug\Areaofcircle.csproj.GenerateResource.Cache
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Areaofcircle\Areaofcircle\bin\Debug\Areaofcircle.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Areaofcircle\Areaofcircle\bin\Debug\Areaofcircle.pdb
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Areaofcircle\Areaofcircle\obj\x86\Debug\Areaofcircle.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Areaofcircle\Areaofcircle\obj\x86\Debug\Areaofcircle.pdb

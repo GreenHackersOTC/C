@@ -1,0 +1,8 @@
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Login\Login\obj\x86\Debug\Login.frmArea.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Login\Login\obj\x86\Debug\Login.Properties.Resources.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Login\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Login\Login\bin\Debug\Login.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Login\Login\bin\Debug\Login.pdb
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Login\Login\obj\x86\Debug\Login.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Login\Login\obj\x86\Debug\Login.pdb
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Login\Login\obj\x86\Debug\Login.frmMenu.resources

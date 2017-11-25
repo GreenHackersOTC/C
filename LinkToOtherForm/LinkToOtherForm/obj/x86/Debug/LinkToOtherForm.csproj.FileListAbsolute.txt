@@ -1,0 +1,10 @@
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\LinkToOtherForm\LinkToOtherForm\obj\x86\Debug\LinkToOtherForm.Form1.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\LinkToOtherForm\LinkToOtherForm\obj\x86\Debug\LinkToOtherForm.frmMain.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\LinkToOtherForm\LinkToOtherForm\obj\x86\Debug\LinkToOtherForm.Properties.Resources.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\LinkToOtherForm\LinkToOtherForm\obj\x86\Debug\LinkToOtherForm.csproj.GenerateResource.Cache
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\LinkToOtherForm\LinkToOtherForm\obj\x86\Debug\LinkToOtherForm.csprojResolveAssemblyReference.cache
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\LinkToOtherForm\LinkToOtherForm\bin\Debug\LinkToOtherForm.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\LinkToOtherForm\LinkToOtherForm\bin\Debug\LinkToOtherForm.pdb
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\LinkToOtherForm\LinkToOtherForm\bin\Debug\Newtonsoft.Json.dll
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\LinkToOtherForm\LinkToOtherForm\obj\x86\Debug\LinkToOtherForm.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\LinkToOtherForm\LinkToOtherForm\obj\x86\Debug\LinkToOtherForm.pdb

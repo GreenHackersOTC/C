@@ -1,0 +1,7 @@
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Hello World 2\Hello World 2\bin\Debug\Hello World 2.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Hello World 2\Hello World 2\bin\Debug\Hello World 2.pdb
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Hello World 2\Hello World 2\obj\x86\Debug\Hello_World_2.frmHello.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Hello World 2\Hello World 2\obj\x86\Debug\Hello_World_2.Properties.Resources.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Hello World 2\Hello World 2\obj\x86\Debug\Hello World 2.csproj.GenerateResource.Cache
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Hello World 2\Hello World 2\obj\x86\Debug\Hello World 2.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\Hello World 2\Hello World 2\obj\x86\Debug\Hello World 2.pdb

@@ -1,0 +1,4 @@
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\twoproject\twoproject\obj\x86\Debug\WeatherApplication_2010.Form1.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\twoproject\twoproject\obj\x86\Debug\WeatherApplication_2010.frmMain.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\twoproject\twoproject\obj\x86\Debug\twoproject.Properties.Resources.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\twoproject\twoproject\obj\x86\Debug\twoproject.csproj.GenerateResource.Cache

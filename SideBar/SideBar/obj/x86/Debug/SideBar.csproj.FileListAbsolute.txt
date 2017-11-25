@@ -1,0 +1,8 @@
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\SideBar\SideBar\bin\Debug\SideBar.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\SideBar\SideBar\bin\Debug\SideBar.pdb
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\SideBar\SideBar\obj\x86\Debug\SideBar.frmSidebar.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\SideBar\SideBar\obj\x86\Debug\SideBar.Properties.Resources.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\SideBar\SideBar\obj\x86\Debug\SideBar.csproj.GenerateResource.Cache
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\SideBar\SideBar\obj\x86\Debug\SideBar.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\SideBar\SideBar\obj\x86\Debug\SideBar.pdb
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\SideBar\SideBar\obj\x86\Debug\SideBar.csprojResolveAssemblyReference.cache

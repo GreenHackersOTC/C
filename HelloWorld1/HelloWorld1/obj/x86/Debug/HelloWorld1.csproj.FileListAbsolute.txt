@@ -1,0 +1,13 @@
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.pdb
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\HelloWorld1\HelloWorld1\obj\x86\Debug\HelloWorld1.frmHello.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\HelloWorld1\HelloWorld1\obj\x86\Debug\HelloWorld1.Properties.Resources.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\HelloWorld1\HelloWorld1\obj\x86\Debug\HelloWorld1.csproj.GenerateResource.Cache
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\HelloWorld1\HelloWorld1\obj\x86\Debug\HelloWorld1.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\HelloWorld1\HelloWorld1\obj\x86\Debug\HelloWorld1.pdb
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\HelloWorld1\HelloWorld1\obj\x86\Debug\HelloWorld1.frmMain.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\HelloWorld1\HelloWorld1\bin\Debug\Interop.WMPLib.dll
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\HelloWorld1\HelloWorld1\bin\Debug\AxInterop.WMPLib.dll
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\HelloWorld1\HelloWorld1\obj\x86\Debug\Interop.WMPLib.dll
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\HelloWorld1\HelloWorld1\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\HelloWorld1\HelloWorld1\obj\x86\Debug\HelloWorld1.csproj.ResolveComReference.cache

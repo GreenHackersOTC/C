@@ -1,0 +1,20 @@
+﻿Build started 10/19/2017 3:28:29 PM.
+     1>Project "F:\Drive F - Online Training\!Online Video Training\C++\Projects\2017101901AreaOfCircle\2017101901AreaOfCircle\2017101901AreaOfCircle.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\2017101901AreaOfCircle.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\2017101901AreaOfCircle\Debug\2017101901AreaOfCircle.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\2017101901AreaOfCircle.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\2017101901AreaOfCircle\Debug\2017101901AreaOfCircle.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\2017101901AreaOfCircle\Debug\2017101901AreaOfCircle.lib" /MACHINE:X86 Debug\area.obj
+         LINK : F:\Drive F - Online Training\!Online Video Training\C++\Projects\2017101901AreaOfCircle\Debug\2017101901AreaOfCircle.exe not found or not built by the last incremental link; performing full link
+         2017101901AreaOfCircle.vcxproj -> F:\Drive F - Online Training\!Online Video Training\C++\Projects\2017101901AreaOfCircle\Debug\2017101901AreaOfCircle.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\2017101901AreaOfCircle\Debug\2017101901AreaOfCircle.exe;#1" /manifest Debug\2017101901AreaOfCircle.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\2017101901AreaOfCircle.unsuccessfulbuild".
+         Touching "Debug\2017101901AreaOfCircle.lastbuildstate".
+     1>Done Building Project "F:\Drive F - Online Training\!Online Video Training\C++\Projects\2017101901AreaOfCircle\2017101901AreaOfCircle\2017101901AreaOfCircle.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.16
