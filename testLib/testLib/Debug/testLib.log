@@ -1,0 +1,30 @@
+﻿Build started 11/25/2017 2:49:26 PM.
+     1>Project "F:\Drive F - Online Training\!Online Video Training\C++\Projects\testLib\testLib\testLib.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "F:\Drive F - Online Training\!Online Video Training\C++\Projects\testLib\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\testLib.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Library\libArea\libArea.cpp testLib.cpp
+         testLib.cpp
+     1>f:\drive f - online training\!online video training\c++\projects\testlib\testlib\testlib.cpp(6): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+         libArea.cpp
+     1>f:\drive f - online training\!online video training\c++\projects\library\libarea\libarea.cpp(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>f:\drive f - online training\!online video training\c++\projects\library\libarea\libarea.cpp(17): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\testLib\Debug\testLib.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\testLib.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\testLib\Debug\testLib.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\testLib\Debug\testLib.lib" /MACHINE:X86 Debug\libArea.obj
+         Debug\testLib.obj
+         testLib.vcxproj -> F:\Drive F - Online Training\!Online Video Training\C++\Projects\testLib\Debug\testLib.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\Drive F - Online Training\!Online Video Training\C++\Projects\testLib\Debug\testLib.exe;#1" /manifest Debug\testLib.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\testLib.unsuccessfulbuild".
+         Touching "Debug\testLib.lastbuildstate".
+     1>Done Building Project "F:\Drive F - Online Training\!Online Video Training\C++\Projects\testLib\testLib\testLib.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.55

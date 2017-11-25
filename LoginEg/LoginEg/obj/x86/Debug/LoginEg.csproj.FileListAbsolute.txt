@@ -1,0 +1,7 @@
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\LoginEg\LoginEg\bin\Debug\LoginEg.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\LoginEg\LoginEg\bin\Debug\LoginEg.pdb
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\LoginEg\LoginEg\obj\x86\Debug\LoginEg.frmMain.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\LoginEg\LoginEg\obj\x86\Debug\LoginEg.Properties.Resources.resources
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\LoginEg\LoginEg\obj\x86\Debug\LoginEg.csproj.GenerateResource.Cache
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\LoginEg\LoginEg\obj\x86\Debug\LoginEg.exe
+F:\Drive F - Online Training\!Online Video Training\C++\Projects\LoginEg\LoginEg\obj\x86\Debug\LoginEg.pdb
